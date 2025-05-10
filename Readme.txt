@@ -1,0 +1,1 @@
+explicacion del juego: Aqui se explicaran las reglas del juego 
